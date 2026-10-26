@@ -1,0 +1,2 @@
+# Jerico
+My first repository
