@@ -1,6 +1,8 @@
 # Jerico
 
-My first repository.# My Favorite Series: Avatar: The Last Airbender
+My first repository.
+
+# My Favorite Series: Avatar: The Last Airbender
 
 > "Water. Earth. Fire. Air." A story about balance and growth.
 
